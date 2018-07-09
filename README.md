@@ -1,1 +1,1 @@
-See my [this](/git_commands.md/) page for details.  
+Check [git_commands](/git_commands.txt/) file for checking git commands.  
