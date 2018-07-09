@@ -38,7 +38,7 @@
 ### _gitk <filename>_
 #### This command is used to check all the previous revisions on the file, the <message> from commit is used to track the name of the previous revisions name
 
-### _git mv old_filename new_filename
+### _git mv old_filename new_filename_
 #### It is used to rename file
 
 ### -------------------------------------------------------------
