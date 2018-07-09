@@ -1,21 +1,21 @@
 # BASIC GIT commands
 
 ### -------------------------------------------------------------
-## Initial Setup Commands (one time)
+## - Initial Setup Commands (one time)
 
-## git config -l
+### git config -l
 #### This command is used to know all the configuration of machine where git is installed
 
-## git config --global user.name "username"
+### git config --global user.name "username"
 #### To set the username
 
-## git config --global user.email "ID@mail.com"
+### git config --global user.email "ID@mail.com"
 #### TO set the email
 
 ### -------------------------------------------------------------
 
 ### -------------------------------------------------------------
-## Daily life commands
+## - Daily life commands
 
 ## git clone <url>
 #### This command is used to clone the repository already created
