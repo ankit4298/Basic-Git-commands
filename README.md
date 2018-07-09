@@ -26,7 +26,7 @@
 ### _git add <filename / . / -A>_
 #### This command is used to add a new/updated file to be committed, "filename" can be given to add specific files or "." for adding all files or "-A" argument to add all files as well
 
-### _git commit -m "<message>"_
+### _git commit -m "\<message\>"_
 #### This command is used to commit the files which are updated or newly created to be uploaded to remote repository, a message is necessary to know what the purpose of the update was, it can further be helpful to check in logs 
 
 ### _git push_
