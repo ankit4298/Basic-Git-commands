@@ -29,7 +29,7 @@
 ### _git commit -m "\<message\>"_
 #### This command is used to commit the files which are updated or newly created to be uploaded to remote repository, a message is necessary to know what the purpose of the update was, it can further be helpful to check in logs 
 
-### _git push -u origin master _
+### _git push -u origin master_
 #### This command is used to push all the local files committed to remote repository in master branch
 
 ### _git pull_
